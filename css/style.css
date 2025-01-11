@@ -31,6 +31,8 @@ label{ display: inline-block;}
     font-size: 15px;
     --red:#ca3c3c;
     --ff:pn, sans-serif;
+    scroll-behavior: smooth;
+}
 }
 
 body{
